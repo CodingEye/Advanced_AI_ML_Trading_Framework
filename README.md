@@ -1,4 +1,4 @@
-# End-to-End AI-Powered Algorithmic Trading Framework
+# AI-Powered Algorithmic Trading Framework
 
 This project is a sophisticated, fully autonomous Python framework for developing, backtesting, and deploying machine learning-based trading strategies. Its core feature is the integration of a Large LanguageModel (LLM) as a dynamic "AI Strategist" that actively manages the entire trading process, from initial setup to cycle-over-cycle adaptation and failure recovery.
 
